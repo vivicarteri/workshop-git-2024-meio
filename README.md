@@ -134,7 +134,10 @@ Anotações
 
 Usem esse espaço para manter uma lista de anotações e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
-1.
+1. Tivemos dificuldade de fazer a lista de tarefas - LEMBRAR DO ESPAÇO EM BRANCO -
+1. Clonamos o repositório, fez as modificações - na nossa branch -, usamos Git Gui para sincronizar, fizemos o commit 
+1. publish branch, stage, commit, sync, pull
+1. assignees e merge
 
 2.
 
