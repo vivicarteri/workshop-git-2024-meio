@@ -90,8 +90,8 @@ Exemplo:
 Para criar listas de tarefas, comece uma linha com - [] e, caso queira marcar adicione um "x" dentro dos colchetes.
 
 Exemplo:
-- [] Crepúsculo
-- [] Batman
+- [ ] Crepúsculo
+- [ ] Batman
 - [x] 10 coisas que eu odeio em você
 
 ### Tabelas
