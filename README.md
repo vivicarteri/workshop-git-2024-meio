@@ -81,10 +81,9 @@ Para definir uma tabela, use as seguintes regras:
 - Insira barras verticais (|) em ao início e fim da tabela
 - Separe o título das colunas do conteúdo com uma linha de demarcação contendo pelo menos três traços (-)
 
-| GRUPO MEIO   |
-|--------------|
+
 | Nome | Curso |
-| ---- | ----- |
+| --- | ---- |
 |Dani  |   CC  |
 |Hana  |   CC  |
 |Judy  |   CC  |
@@ -92,11 +91,9 @@ Para definir uma tabela, use as seguintes regras:
 
 
 ALINHAMENTO
-#
+
 Para alinhar o conteúdo de uma coluna inclua dois pontos (:) antes ou depois do traço de demarcação do lado que deseja alinhar. Se deseja centralizar o conteúdo, use os dois pontos em ambos os lados.
 
-| GRUPO MEIO   |
-|--------------|
 | Nome | Curso |
 |:---- |:-----:|
 |Dani  |   CC  |
