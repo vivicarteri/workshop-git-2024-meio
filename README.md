@@ -71,9 +71,32 @@ Por exemplo: **Esse texto está em negrito**
 
 #### Listas Numeradas
 
-#### Listas com subitems
+Para criar listas numeradas, comece uma linha com 1. ou 1).
+
+Exemplo:
+1. Vivi
+1. Hanna
+1. Dani
+1. Judy
+
+#### Listas com subitems 
+
+Para criar listas de itens, comece uma linha com * ou - ou +.
+
+Exemplo:
+- uva
+- banana
+- maçã
+- morango
 
 #### Listas de Tarefas
+
+Para criar listas de tarefas, comece uma linha com - [ ] e, caso queira marcar adicione um "x" dentro dos colchetes.
+
+Exemplo:
+- [ ] Crepúsculo
+- [ ] Batman
+- [x] 10 coisas que eu odeio em você
 
 ### Tabelas
 
