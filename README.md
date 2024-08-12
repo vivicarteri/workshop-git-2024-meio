@@ -73,6 +73,34 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 
 ### Tabelas
 
+SINTAXE CLÁSSICA
+
+Para definir uma tabela, use as seguintes regras:
+
+- Separe colunas com barras verticais (|)
+- Insira barras verticais (|) em ao início e fim da tabela
+- Separe o título das colunas do conteúdo com uma linha de demarcação contendo pelo menos três traços (-)
+
+
+| Nome | Curso |
+| --- | ---- |
+|Dani  |   CC  |
+|Hana  |   CC  |
+|Judy  |   CC  |
+|Vivi  |   EC  |
+
+
+ALINHAMENTO
+
+Para alinhar o conteúdo de uma coluna inclua dois pontos (:) antes ou depois do traço de demarcação do lado que deseja alinhar. Se deseja centralizar o conteúdo, use os dois pontos em ambos os lados.
+
+| Nome | Curso |
+|:---- |:-----:|
+|Dani  |   CC  |
+|Hana  |   CC  |
+|Judy  |   CC  |
+|Vivi  |   EC  |
+
 
 Anotações
 ---------
