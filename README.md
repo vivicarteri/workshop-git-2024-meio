@@ -13,7 +13,7 @@ Cada modificação em um ou mais arquivos gera uma nova versão do projeto que p
 
 O gerenciamento do projeto é considerado distribuiído porque pode ser feito em ramos e máquinas independentes.
 
-Além de armazenamento e versionamento dos arquivos do projeto, o Git oferece uma forma de incorporar modificações feitas no mesmo arquivo em ramos independentes em um ramo principal.
+Além de armazenamento e versionamento dos arquivos do projeto, o Git oferece uma forma de incorporar modificações feitas no mesmo arquivo de ramos independentes em um ramo principal.
 
 
 Porque Git?
@@ -23,7 +23,7 @@ A possibilidade de desenvolver e testar novas funcionalidades e melhorias de for
 
 Além disso, infraestruturas como GitHub e GitLab oferecem ferramentas de criação e atribuição de pendências (issues) que dinamizam o gerenciamento de projetos com equipes distribuídas.
 
-Finalmente, com o Git é possível desenhar um fluxo de trabalho comum que reduz a necessidade de comunicação síncrona entre os integrantes do projeto.
+Finalmente, com o Git é possível desenhar um fluxo de trabalho comum que reduz a necessidade de comunicação instantânea entre os integrantes do projeto.
 
 
 Como Usar?
