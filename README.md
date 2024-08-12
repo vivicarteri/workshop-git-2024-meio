@@ -85,7 +85,7 @@ Para definir uma tabela, use as seguintes regras:
 | Nome | Curso |
 | --- | ---- |
 |Dani  |   CC  |
-|Hana  |   CC  |
+|Hanna |   CC  |
 |Judy  |   CC  |
 |Vivi  |   EC  |
 
@@ -97,7 +97,7 @@ Para alinhar o conteúdo de uma coluna inclua dois pontos (:) antes ou depois do
 | Nome | Curso |
 |:---- |:-----:|
 |Dani  |   CC  |
-|Hana  |   CC  |
+|Hanna |   CC  |
 |Judy  |   CC  |
 |Vivi  |   EC  |
 
