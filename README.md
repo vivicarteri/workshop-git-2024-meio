@@ -4,65 +4,65 @@ Workshop de Git 2024
 por [Bernardo Quaresma](mailto:bernardo@tegraf.puc-rio.br)
 
 
-O que é?
+O que Ã©?
 --------
 
-Git é uma ferramenta para gerenciamento distribuído de versões de um projeto composto por conjunto de arquivos e pastas.
+Git Ã© uma ferramenta para gerenciamento distribuÃ­do de versÃµes de um projeto composto por conjunto de arquivos e pastas.
 
-Cada modificação em um ou mais arquivos gera uma nova versão do projeto que possui uma apontamento de diferenças para a versão anterior.
+Cada modificaÃ§Ã£o em um ou mais arquivos gera uma nova versÃ£o do projeto que possui uma apontamento de diferenÃ§as para a versÃ£o anterior.
 
-O gerenciamento do projeto é considerado distribuiído porque pode ser feito em ramos e máquinas independentes.
+O gerenciamento do projeto Ã© considerado distribuiÃ­do porque pode ser feito em ramos e mÃ¡quinas independentes.
 
-Além de armazenamento e versionamento dos arquivos do projeto, o Git oferece uma forma de incorporar modificações feitas no mesmo arquivo em ramos independentes.
+AlÃ©m de armazenamento e versionamento dos arquivos do projeto, o Git oferece uma forma de incorporar modificaÃ§Ãµes feitas no mesmo arquivo em ramos independentes em um ramo principal.
 
 
 Porque Git?
 -----------
 
-A possibilidade de desenvolver e testar novas funcionalidades e melhorias de forma distribuíde e independente facilita a divisão e planejamento do trabalho.
+A possibilidade de desenvolver e testar novas funcionalidades e melhorias de forma distribuÃ­de e independente facilita a divisÃ£o e planejamento do trabalho.
 
-Além disso, infraestruturas como GitHub e GitLab oferecem ferramentas de criação e atribuição de pendências (issues) que dinamizam o gerenciamento de projetos com equipes distribuídas.
+AlÃ©m disso, infraestruturas como GitHub e GitLab oferecem ferramentas de criaÃ§Ã£o e atribuiÃ§Ã£o de pendÃªncias (issues) que dinamizam o gerenciamento de projetos com equipes distribuÃ­das.
 
-Finalmente, com o Git é possível desenhar um fluxo de trabalho comum que reduz a necessidade de comunicação síncrona entre os integrantes do projeto.
+Finalmente, com o Git Ã© possÃ­vel desenhar um fluxo de trabalho comum que reduz a necessidade de comunicaÃ§Ã£o sÃ­ncrona entre os integrantes do projeto.
 
 
 Como Usar?
 ----------
 
-  - Repositórios Remotos x Locais
-  - Acessando o repositório de um projeto remoto (GitHub)
-  - Criando um Repositório local (Clone)
+  - RepositÃ³rios Remotos x Locais
+  - Acessando o repositÃ³rio de um projeto remoto (GitHub)
+  - Criando um RepositÃ³rio local (Clone)
   - Ramificando o desenvolvimento (Branch)
   - Modificando o ramo local (Stage/Commit)
-  - Atualizando o repositório remoto (Push)
+  - Atualizando o repositÃ³rio remoto (Push)
   - Integrando os Ramos de Desenvolvimento (Pull/Merge Request)
 
 
-Exercício
+ExercÃ­cio
 ---------
 
 1. Repliquem este projeto (Fork) no GitHub
-2. Dividam os tópicos da próxima seção entre vocês
-3. Criem pendências no Github e atribuam as pendências de acordo com a divisão do Trabalho
-4. Clonem o projeto replicado na máquina de vocês
-5. Criem ramos locais nomeando com o prefixo numérico e um breve descrição da pendência que estão resolvendo (Ex: 1-Formatacao)
-6. Preencham a Seção atribuída para você (vale consulta)
-7. Modifiquem o ramo local com as alterações incluindo uma mensagem que a descreva e uma referência para a pendência
-8. Atualize o repositório remoto com o ramo criado
+2. Dividam os tÃ³picos da prÃ³xima seÃ§Ã£o entre vocÃªs
+3. Criem pendÃªncias no Github e atribuam as pendÃªncias de acordo com a divisÃ£o do Trabalho
+4. Clonem o projeto replicado na mÃ¡quina de vocÃªs
+5. Criem ramos locais nomeando com o prefixo numÃ©rico e um breve descriÃ§Ã£o da pendÃªncia que estÃ£o resolvendo (Ex: 1-Formatacao)
+6. Preencham a SeÃ§Ã£o atribuÃ­da para vocÃª (vale consulta)
+7. Modifiquem o ramo local com as alteraÃ§Ãµes incluindo uma mensagem que a descreva e uma referÃªncia para a pendÃªncia
+8. Atualize o repositÃ³rio remoto com o ramo criado
 
 
 Markdown
 --------
 
-Markdown é uma forma de escrever arquivos texto seguindo regras que serão seguidas para exibição do texto com formatação.
+Markdown Ã© uma forma de escrever arquivos texto seguindo regras que serÃ£o seguidas para exibiÃ§Ã£o do texto com formataÃ§Ã£o.
 
-### Formatação
+### FormataÃ§Ã£o
 
-#### Itálico
+#### ItÃ¡lico
 
 #### Negrito
 
-#### Bloco de Código
+#### Bloco de CÃ³digo
 
 ### Listas
 
@@ -75,10 +75,10 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão seguid
 ### Tabelas
 
 
-Anotações
+AnotaÃ§Ãµes
 ---------
 
-Usem esse espaço para manter uma lista de anotações e dicas para futuro uso do Git, GitHub e Markdown
+Usem esse espaÃ§o para manter uma lista de anotaÃ§Ãµes e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
 1.
 
