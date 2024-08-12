@@ -144,5 +144,14 @@ Usem esse espaço para manter uma lista de anotações e dicas como comandos do 
   * Merge: Junta na Branch principal as modificações da branch em questão.
   * Pull: Atualiza o seu repositório local com as novas modificações do remoto.
 
+2. Vivi e Hanna
+* Tivemos dificuldade de fazer a lista de tarefas - LEMBRAR DO ESPAÇO EM BRANCO -
+* Clonamos o repositório, fez as modificações - na nossa branch -, usamos Git Gui para sincronizar, fizemos o commit 
+* publish branch, stage, commit, sync, pull
+* assignees e merge
+
+
+3. Bem interessante a criação de tabela com Markdown. Muito mais simples comparado ao HTML.
+    O processo de sincronização para o github é um pouco complicado de início, mas ao realizá-lo fica mais simples e legal. Eventualmente eu me esquecerei de algum passo do processo, mas consegui pegar bem o conceito ao todo. (Judy Faria)
 
 
