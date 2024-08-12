@@ -87,7 +87,7 @@ Exemplo:
 
 #### Listas de Tarefas
 
-Para criar listas de tarefas, comece uma linha com - [] e, caso queira marcar adicione um "x" dentro dos colchetes.
+Para criar listas de tarefas, comece uma linha com - [ ] e, caso queira marcar adicione um "x" dentro dos colchetes.
 
 Exemplo:
 - [ ] Crepúsculo
