@@ -43,12 +43,11 @@ Exercício
 
 1. Repliquem este projeto (Fork) no GitHub
 2. Dividam os tópicos da próxima seção entre vocês
-3. Criem pendências no Github e atribuam as pendências de acordo com a divisão do Trabalho
-4. Clonem o projeto replicado na máquina de vocês
-5. Criem ramos locais nomeando com o prefixo numérico e um breve descrição da pendência que estão resolvendo (Ex: 1-Formatacao)
-6. Preencham a Seção atribuída para você (vale consulta)
-7. Modifiquem o ramo local com as alterações incluindo uma mensagem que a descreva e uma referência para a pendência
-8. Atualize o repositório remoto com o ramo criado
+3. Clonem o projeto replicado na máquina de vocês
+4. Criem ramos locais nomeando com um breve descrição da pendência que estão resolvendo (Ex: Formatacao)
+5. Preencham o tópico atribuído para você (vale consulta)
+6. Modifiquem o ramo local com as alterações incluindo uma mensagem que a descreva
+7. Atualize o repositório remoto com o ramo criado
 
 
 Markdown
