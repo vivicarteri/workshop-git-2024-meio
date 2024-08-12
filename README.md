@@ -136,6 +136,8 @@ Usem esse espaço para manter uma lista de anotações e dicas como comandos do 
 
 1.
 
+2.
+
 3. Bem interessante a criação de tabela com Markdown. Muito mais simples comparado ao HTML.
     O processo de sincronização para o github é um pouco complicado de início, mas ao realizá-lo fica mais simples e legal. Eventualmente eu me esquecerei de algum passo do processo, mas consegui pegar bem o conceito ao todo. (Judy Faria)
 
