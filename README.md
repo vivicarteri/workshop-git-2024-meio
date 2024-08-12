@@ -134,12 +134,22 @@ Anotações
 
 Usem esse espaço para manter uma lista de anotações e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
-1. Tivemos dificuldade de fazer a lista de tarefas - LEMBRAR DO ESPAÇO EM BRANCO -
-1. Clonamos o repositório, fez as modificações - na nossa branch -, usamos Git Gui para sincronizar, fizemos o commit 
-1. publish branch, stage, commit, sync, pull
-1. assignees e merge
+1. Danielle - Anotações:
+  * Fork: Podemos copiar um repositório remoto.
+  * Clone: Conseguimos clonar o repositório remoto para o local.
+  * Branch: Permite separar um espaço para uma equipe trabalhar em tasks diferentes.
+  * Commit: Damos os ajustes finais para publicar as novas modificações no repositório remoto. A mensagem é importante para torna as suas alterações mais explicativas para a pessoa que vai fazer o review do seu código.
+  * Push: Publica as suas modificações com a messagem adicionada no commit no repositório remoto.
+  * Pull Request: Atribui para outra pessoa da equipe analisar o seu código e decidir se vai ou não para a branch principal.
+  * Merge: Junta na Branch principal as modificações da branch em questão.
+  * Pull: Atualiza o seu repositório local com as novas modificações do remoto.
 
-2.
+2. Vivi e Hanna
+* Tivemos dificuldade de fazer a lista de tarefas - LEMBRAR DO ESPAÇO EM BRANCO -
+* Clonamos o repositório, fez as modificações - na nossa branch -, usamos Git Gui para sincronizar, fizemos o commit 
+* publish branch, stage, commit, sync, pull
+* assignees e merge
+
 
 3. Bem interessante a criação de tabela com Markdown. Muito mais simples comparado ao HTML.
     O processo de sincronização para o github é um pouco complicado de início, mas ao realizá-lo fica mais simples e legal. Eventualmente eu me esquecerei de algum passo do processo, mas consegui pegar bem o conceito ao todo. (Judy Faria)
